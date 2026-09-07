@@ -1,4 +1,4 @@
-# DESKIFY OFFICE SUPPLY PERFORMANCE ANALYSIS
+# Customer Segmentation Analysis
 
 ## Leveraging Power BI's Advanced Analytics for Product Profitability and Customer Segmentation Analysis at Deskify
 
